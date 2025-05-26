@@ -1,7 +1,7 @@
-# Helo? world!
+# Hello, world!
 
 
-I stedent Netology
+I student Netology
 
 
 26/05/25
